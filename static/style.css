@@ -1,0 +1,37 @@
+html,body{
+            height: 100%;
+            max-height: 100%;
+            font-family: 'Roboto', sans-serif;
+        }
+.top-container{
+          padding-top:10%;
+
+      }
+.general-conteiner{
+          background: url('img/1.jpg');
+          height:100%;
+      }
+.general-conteiner form{
+          margin-top:20px;
+      }
+.general-conteiner form label{
+          font-weight:100;
+          color:white;
+}
+
+.h1_set {
+          text-align: center;
+          color:white;
+          font-weight:100;
+          line-height:50px;
+
+}
+.orange-btn{
+  background-color: #e8643e;
+  border:none;
+}
+
+.orange-btn:hover{
+  background-color: #dc5129;
+  border:none;
+}
